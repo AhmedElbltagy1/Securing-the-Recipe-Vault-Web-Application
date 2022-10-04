@@ -1,0 +1,1 @@
+aws s3 cp ../secret_recipe.txt s3://cand-c3-secret-recipes-110907371477/ --region us-east-1
