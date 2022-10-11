@@ -8,7 +8,7 @@ In this project, you will:
 * Apply methods learned in the course to harden and secure the environment
 * Design a DevSecOps pipeline
  
-## Dependencies and Prerequisites
+## Dependencies and Prerequisites.
  
 ### Access to AWS account  
 Students will need to use either their personal AWS account or the federated user account provided by Udacity (if available to you). In either case, you need to track your usage and expenditure on [AWS Billing Dashboard](https://console.aws.amazon.com/billing/home#/) regularly. Remember, all AWS services are a pay-as-you-go service, so shut down/delete every AWS resource immediately after the usage or if you are stepping away for a few hours. 
